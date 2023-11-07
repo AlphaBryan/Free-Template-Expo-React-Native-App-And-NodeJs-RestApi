@@ -1,0 +1,21 @@
+{
+  "name": "application",
+  "version": "0.0.0",
+  "description": "application description",
+  "private": true,
+  "workspaces": [
+    "mobile/*"
+  ],
+  "scripts": {
+    "dev": "turbo dev",
+    "dev:tunnel": "turbo dev:tunnel",
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx --ignore-path .gitignore ."
+  },
+  "author": "generation-wa-inc",
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^1.10.16",
+    "prettier": "^2.7.1"
+  }
+  
+}
