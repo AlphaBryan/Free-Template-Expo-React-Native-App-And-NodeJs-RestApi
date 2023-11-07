@@ -4,4 +4,4 @@ Turbo multi repo
 yarn
 yarn dev
 
-open source, pr or suggestions are welcomed :feelsgood:
+**Open source**, **PR or Suggestions** are welcomed 🙂
